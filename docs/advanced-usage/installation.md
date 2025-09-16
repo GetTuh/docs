@@ -125,7 +125,7 @@ sudo chmod a+wr /usr/share/spotify/Apps -R
 
 ![flat2](https://user-images.githubusercontent.com/26436809/57563050-81408780-73dc-11e9-92e8-d0cc60502ff3.png)
 
-After you have Spotify location, set `spotify_path` in config file to that directory:
+After you have Spotify location, set `spotify_path` in the config file `(~/.config/spicetify/config-xpui.ini)` to that directory:
 
 ![flat2](https://user-images.githubusercontent.com/26436809/57563057-9ddcbf80-73dc-11e9-82d8-d31cdf7e9cef.png)
 
